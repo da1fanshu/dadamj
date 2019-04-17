@@ -5,6 +5,12 @@
 
 ### 欢迎加入棋牌游戏开发QQ群807630019，里面都是资深棋牌游戏开发者，一起打造更优秀的棋牌游戏！一起赚钱创业，合作必胜！
 
+#### 软件架构
+
+软件架构说明
+数据库：MySQL：5.7
+服务端：Node.js：6.11.0
+游戏开发引擎：CocosCreator：1.6.2
 
 ### 美术图片资源
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0417/100730_2498e75e_4917846.jpeg "]_VD1GAGI3(I[9@962%KWP0.jpg")
@@ -14,11 +20,6 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0417/100821_17e71872_4917846.png "20190131154152420.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0417/100830_3b891f02_4917846.png "ajNVdqHZLLC671Vbm73icv9RAMwibArwG8Cd9Aj52pIwsicbEyORGTfTagUzbrwSy9g6BibibNBgUVj0.png")
 
-#### 软件架构
-软件架构说明
-数据库：MySQL：5.7
-服务端：Node.js：6.11.0
-游戏开发引擎：CocosCreator：1.6.2
 
 #### 安装教程
 
