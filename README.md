@@ -22,6 +22,8 @@
 
 #### 安装教程
 
+完整的搭建文章 [输入链接说明](http://blog.csdn.net/qq_34405062/article/details/89350510)
+
 一、服务器环境搭建
 1、安装MySql数据库(百度)
 2、登录MySql: mysql –u用户名 –p密码 (登录成功提示符：mysql>)
