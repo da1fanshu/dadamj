@@ -69,7 +69,7 @@ node ./game_server/app.js ../configs_win.js
 
 ### 大家的参与和贡献是我前进的动力，一定会打造更游戏的游戏给大家使用，谢谢！
 ** 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0103/175057_7ee7810b_4917846.jpeg "8.jpg")
+
 
 1. Fork 本仓库
 2. 新建 Feat_xxx 分支
