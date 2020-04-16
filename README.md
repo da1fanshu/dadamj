@@ -13,7 +13,7 @@
 游戏开发引擎：CocosCreator：1.6.2
 
 ### 美术图片资源
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0417/100730_2498e75e_4917846.jpeg "]_VD1GAGI3(I[9@962%KWP0.jpg")
+
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0417/100744_0b69395e_4917846.png "20190131154038447.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0417/100755_c90af0f5_4917846.png "20190131154052628.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0417/100806_39d64491_4917846.png "20190131154137547.png")
